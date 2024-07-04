@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: #f3f3f3;
+    padding: 20px;
+    text-align: center;
+    font-size: 1rem;
+}
+
+.container {
+    max-width: 600px;
+    height: 150px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.274);
+}
+
+h1 {
+    color: #03b6a7;
+    text-shadow: 1px 1px 3px #000000bd;
+}
